@@ -1,0 +1,10 @@
+"""
+JEAN Core Package
+
+Author: Ibrahim A. G. A. (amrgalalibrahim@gmail.com)
+"""
+
+from .jean_engine import JEANEngine, JEANConfig, JEANResults, ModificationEvent
+
+__all__ = ['JEANEngine', 'JEANConfig', 'JEANResults', 'ModificationEvent']
+

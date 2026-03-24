@@ -1,0 +1,12 @@
+"""
+JEAN Detection Algorithms Package
+
+Author: Ibrahim A. G. A. (amrgalalibrahim@gmail.com)
+"""
+
+from .methylation_detector import MethylationDetector
+from .lactylation_detector import LactylationDetector
+from .acetylation_detector import AcetylationDetector
+
+__all__ = ['MethylationDetector', 'LactylationDetector', 'AcetylationDetector']
+
