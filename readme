@@ -1,0 +1,9 @@
+JEAN v2.0.0
+Joint Epigenetic Analysis of Nanopore
+
+JEAN is a comprehensive tool for analyzing epigenetic modifications from nanopore sequencing data. It combines direct methylation detection with computational prediction of lactylation and acetylation, followed by electrochemical simulation and advanced visualization.
+
+Author: Ibrahim A. G. A. (amrgalalibrahim@gmail.com)
+
+If you use please Cite: Amr Galal Abdelraheem Ibrahim, Edson Aparecido Adrano. JEAN: Joint Epigenetic Analysis of Nanopore pipeline for detecting methylation, acetylation, and lactylation. Authorea. October 26, 2025.
+DOI: 10.22541/au.176150718.81665285/v1
